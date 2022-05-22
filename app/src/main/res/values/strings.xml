@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Xilften</string>
+    <string name="app_version">Versão: 0.1 Alpha</string>
+    <string name="app_description">O Xilften é um aplicativo que ajuda no controle de Filmes.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_navigation_drawer">Home Xilften</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="text_hint_search_menu">Digite sua pesquisa...</string>
+    <string name="search_hint">Pesquisar...</string>
+
+    <!-- Textos referentes aos titulos das Activities e Fragments -->
+    <string name="title_activity_sobre">Sobre o Xilften</string>
+    <string name="title_activity_item">Filme</string>
+    <string name="title_activity_details_item">Filmes</string>
+    <string name="title_fragment_list_itens">Lista de Filmes</string>
+    <string name="title_fragment_list_itens_favorites">Filmes Favoritos</string>
+
+    <!-- Textos dos componentes das Activities e Fragments  -->
+    <string name="text_list_fragment_sem_itens">Não há filmes! Clique no + para adicionar.</string>
+    <string name="text_list_fragment_com_itens">Lista de filmes, clique para selecionar.</string>
+    <string name="text_list_fragment_favoritos_com_itens">Lista de filmes favoritados, clique para selecionar.</string>
+    <string name="text_list_fragment_favoritos_sem_itens">Não há filmes favoritados!</string>
+    <string name="text_list_atualizar_itens">Atualizando a lista de filmes!</string>
+
+    <!-- Texto da função compartilhar o app -->
+    <string name="text_share_app">Olá!\n
+        Gostaria de compartilhar com você o aplicativo Xilften.\n
+        Baixe e confira. :)\n
+        Disponível em:\n
+        https://play.google.com/store/apps/details?id=br.ufms.facom.geff.xilften
+        \n
+        \n
+        --\n
+        Enviado de Xilften</string>
+
+    <!--Arrays -->
+    <string-array name="alert_dialog_menu_options">
+        <item>Visualizar</item>
+        <item>Editar</item>
+        <item>Excluír</item>
+        <item>Copiar Item</item>
+        <item>Compartilhar</item>
+    </string-array>
+
+    <!-- Avisos e aletas -->
+    <string name="text_aviso_title">Aviso</string>
+    <string name="text_aviso_excluir_item">Deseja realmente APAGAR esse filme?</string>
+    <string name="text_aviso_opcao_sim">Sim</string>
+    <string name="text_aviso_opcao_nao">Não</string>
+    <string name="text_aviso_campo_obrigatorio">Você deve preencher o campo </string>
+
+    <!-- Outras palavras e textos -->
+    <string name="text_copia">Cópia</string>
+    <string name="text_descricao">Categoria: </string>
+
+    <!-- URLS e Links-->
+    <string name="link_download_app_or_download_play_store">https://play.google.com/store/apps/details?id=br.ufms.facom.geff.xilften</string>
+
+    <!--Contatos, E-mails, Nomes de Pessoas etc -->
+    <string name="text_email_contact">g_alves@ufms.br</string>
+    <string name="text_send_email_subject">Feedback Xilften</string>
+
+</resources>
